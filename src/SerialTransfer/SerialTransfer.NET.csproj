@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Title>SerialTransfer.NET</Title>
@@ -13,6 +12,10 @@
     <Authors>frozer</Authors>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Copyright>(c) Denis Morozov, 2025</Copyright>
+    <TargetFrameworks>net8.0;net5.0;netcoreapp3.1;net462</TargetFrameworks>
+    <LangVersion>12.0</LangVersion>
+    <Version>1.0.0</Version>
+    <PackageId>SerialTransfer.NET</PackageId>
   </PropertyGroup>
 
   <ItemGroup>

@@ -17,7 +17,7 @@ Key features:
 
 ### Requirements
 
-- .NET Framework 4.6.1+ or .NET Core 3.1+ / .NET 5.0+
+- .NET Framework 4.6.2+ or .NET Core 3.1+ / .NET 5.0+
 - System.IO.Ports package for SerialPort functionality
 
 ### Via NuGet (Coming Soon)
